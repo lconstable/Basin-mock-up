@@ -1,0 +1,26 @@
+
+SPEC CHECKSUMS: 
+  MFSideMenu: 8e59d54b2e7905f244df6b3f6f1f10336c0a0278
+  SDWebImage: 6be78ee398d329bdd22c85a0e11ee41bd1f52066
+  SDWebImage/Main: 6be78ee398d329bdd22c85a0e11ee41bd1f52066
+  PrettyKit: 44b8f06f3719579880d2e11cd6498b7464b3b0fa
+  OHAttributedLabel: ba8998b8527076ab91f911e749302d772a73191c
+  MGBox2: 7d934fa29c01dc494f592d080c80f86d3dfa3042
+
+COCOAPODS: 0.16.0
+
+PODS: 
+- MFSideMenu (0.3)
+- MGBox2 (1.3.0)
+- OHAttributedLabel (1.2.0)
+- PrettyKit (0.2.0)
+- SDWebImage (2.7): 
+  - SDWebImage/Main (= 2.7)
+- SDWebImage/Main (2.7)
+
+DEPENDENCIES: 
+- MFSideMenu (~> 0.3)
+- MGBox2 (~> 1.3.0)
+- OHAttributedLabel (~> 1.2.0)
+- PrettyKit (~> 0.2.0)
+- SDWebImage (~> 2.7.0)

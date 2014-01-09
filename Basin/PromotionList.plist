@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>promotions</key>
+	<dict>
+		<key>promoImages</key>
+		<array>
+			<string>pLillyDress</string>
+			<string>pGapShorts</string>
+			<string>pLacosteShirt</string>
+			<string>pPaulSmithTravel</string>
+			<string>pMarcJacobsSale</string>
+			<string>pNordstromMaxi</string>
+			<string>pAllenEdmondsNashua</string>
+			<string>pBRSavings</string>
+			<string>pAdidasNitro</string>
+			<string>pJCrewLook</string>
+			<string>pRegalClub</string>
+			<string>pBloomingdalesCool</string>
+			<string>pLowesAppliance</string>
+			<string>pExpressSummer</string>
+			<string>pHarneyEstateTeas</string>
+			<string>pColeHaanSummer</string>
+			<string>pIkeaSummer</string>
+			<string>pUAOutlet</string>
+			<string>pJetBlueGetaways</string>
+			<string>p7Slim</string>
+			<string>pPaulStuartSocks</string>
+			<string>pEquinoxYoga</string>
+			<string>pBergdorfTotes</string>
+			<string>pBigDropSummer</string>
+		</array>
+		<key>promoURLs</key>
+		<array>
+			<string>http://www.lillypulitzer.com/section/Dresses/38.uts</string>
+			<string>http://www.gap.com/browse/category.do?cid=5156&amp;tid=gpemmain1&amp;EV=GMNET05282013&amp;DI=108301300&amp;CD=GNC_GPR</string>
+			<string>http://shop.lacoste.com/Rene-Lacoste-Collections/b/6931045011/?linkid=email_20130528_ReneLacosteEmail_Main_RLCollection&amp;utm_source=20130528_ReneLacosteEmail&amp;utm_medium=email&amp;utm_campaign=Main&amp;ep_rid=AAEOS6&amp;ep_mid=_BRpI5lB8yy02si</string>
+			<string>http://www.paulsmith.co.uk/us-en/shop/campaigns/ready-set-jet?utm_campaign=MAY13%3ATRAVELESSENTIALS&amp;utm_content=MAY13%3ATRAVELESSENTIALS&amp;utm_medium=email&amp;utm_source=Exacttarget</string>
+			<string>http://www.marcjacobs.com/?utm_source=enote&amp;utm_medium=email&amp;utm_content=hmpg&amp;utm_campaign=40SALE</string>
+			<string>http://shop.nordstrom.com/c/womens-maxi-dresses?campaign=0523emdress&amp;cm_mmc=EMAIL-_-052313-_-efepcl_gen_womens_suppress_fr_customers_maxi_dres-_-hero7_img1&amp;cm_em=15199064</string>
+			<string>http://www.allenedmonds.com/webapp/wcs/stores/servlet/AjaxCatalogSearchView?roi=echo2-10644931166-2838746-6092d53d16a9888ef1d9281a9c63f667&amp;storeId=1&amp;catalogId=40000000001&amp;langId=-1&amp;pageSize=48&amp;beginIndex=0&amp;sType=SimpleSearch&amp;resultType=2&amp;resultCatEntryType=2&amp;searchTermScope=3&amp;searchTermCaseSensitive=no&amp;searchType=ALL&amp;searchTermOperator=LIKE&amp;customSearchType=1&amp;showResultsPage=true&amp;pageView=image&amp;exclCatGroupSearch=CUSTOM+SHOES&amp;searchTerm=nashuas&amp;searchTermHide=&amp;cyEmail=lconstable1234@gmail.com&amp;utm_source=PromotionalEmail&amp;utm_medium=Email&amp;utm_campaign=2013_Nashua_ShirtTieSale&amp;utm_content=HeroNashua</string>
+			<string>http://bananarepublic.gap.com/browse/division.do?cid=5002&amp;tid=brem005627&amp;EV=BRESTPOS305232013&amp;DI=108301300&amp;CD=BNC_BPR</string>
+			<string>http://www.adidas.com/us/product/mens-soccer-nitrocharge-10-trx-fg-cleats/AU722?cid=Q33665&amp;cm_mmc=AdieEmail_MKTG-_-130521_nitrocharge-_-v10-_-main&amp;cm_mmca1=US&amp;cm_em=lconstable1234@gmail.com</string>
+			<string>http://www.jcrew.com/womens_feature/lookswelove.jsp?srcCode=EMBR01000&amp;em=lconstable1234@gmail.com</string>
+			<string>https://www.regmovies.com/Into-Darkness-Shirt-Combo?_m_utk=2856b827eb26e94d9b087a195367f0b5</string>
+			<string>http://www1.bloomingdales.com/shop/mens/new-arrivals?id=20592&amp;cm_mmc=EML-_-FOB-_-Men_051613_TheoryVarvatos-_-Main&amp;EMAIL_ID=14708739302</string>
+			<string>http://www.lowes.com/cd_promotions_452036367_?storeId=10151&amp;langId=-1&amp;catalogId=10051&amp;cm_mmc=email_promo-_-20130509-_-lm_12543-_-tiered_appliances_details</string>
+			<string>http://www.express.com/clothing/Women/New+Arrivals/cat/cat120002?om_rid=NtCqcK&amp;om_mid=_BRh5tEB8yWOoYW</string>
+			<string>http://www.harney.com/what-s-new.html</string>
+			<string>http://www.colehaan.com/colehaan/catalog/pwp.jsp?l=shop,pwp,c-100/f-10002+50144/t-MEN&amp;cp=email_memorialday_052713&amp;utm_source=email&amp;utm_medium=email&amp;utm_content=shopmens&amp;utm_campaign=email_memorialday_052713&amp;et_cid=88131&amp;et_rid=999911032234</string>
+			<string>http://ikea.shoplocal.com/IKEA/BrowseByPage?promotioncode=Ikea-130520&amp;promotionviewmode=2&amp;adref=Gmdatabase&amp;cid=us%3Eem%3E2013may21%3Ehtml%3Ewk21peakweekgm%3E1&amp;userid=10815312&amp;mailingid=5000676&amp;storeid=2628489</string>
+			<string>http://www.underarmour.com/shop/us/en/outlet?RMID=4_29_13_Outlet_remail_e&amp;RRID=LCONSTABLE1234@GMAIL.COM&amp;cid=EM||4_29_13_outletremail|us|apr|monday|nonopeners&amp;campaign=EMAIL</string>
+			<string>http://www2.jetblue.com/vacations/?source=EMWNG_banner</string>
+			<string>http://www.7forallmankind.com/store/productslist.aspx?categoryid=4900&amp;PageNo=0&amp;ICID=HP_Bottom3_052913</string>
+			<string>http://www.paulstuart.com/category_template_viewall.cfm?MainCatId=14&amp;ProdCatId=1012&amp;subProdCatId=0&amp;headermenuid=1&amp;utm_medium=email&amp;utm_campaign=Sock%20Full%20of%20Color%20%20Spring%20Suits&amp;utm_content=Sock%20Full%20of%20Color%20%20Spring%20Suits+CID_0e0c712f4d09594b6d1008e4414d2965&amp;utm_source=blast&amp;utm_term=Paul%20Stuart%20socks</string>
+			<string>http://www.equinox.com/fitness/yoga</string>
+			<string>http://www.bergdorfgoodman.com/category.jsp?itemId=cat414207&amp;parentId=cat411900&amp;masterId=cat322800&amp;ecid=BGEC053013_CHB1314&amp;ncx=n&amp;uEm=</string>
+			<string>http://www.bigdropnyc.com/department.asp?deptid=53588&amp;sec=all</string>
+		</array>
+		<key>promoStrings</key>
+		<array>
+			<string>Pretty in Pastel. Our Best Dress Ever!</string>
+			<string>Find shorts that best suit your style. Starting at $39.99.</string>
+			<string>Exclusive: Styles to wear on &amp; off the court.</string>
+			<string>Everything you need for your summer getaway.</string>
+			<string>Private VIP Sale: Enjoy 40% off.</string>
+			<string>Maxi Dresses from $78. The season&apos;s best bet.</string>
+			<string>Nashua: One of our most popular slip-ons.</string>
+			<string>Savings to jumpstart your weekend.</string>
+			<string>Winning never quits. Nitrocharge your game.</string>
+			<string>Looks We Love: Our favorite warm weather outfits.</string>
+			<string>Be part of an exclusive group to own a limited edition Star Trek t-shirt!</string>
+			<string>Play it cool. The laid-back latest from John Varvatos, Vince, and Theory.</string>
+			<string>FREE Next-Day Delivery and Haul Away on in-stock major appliances.</string>
+			<string>Pure Summer: Simple and sexy-easy style define this season&apos;s look.</string>
+			<string>Our Premium Estate Teas: 15% off!</string>
+			<string>Today: Summer (Unofficially) Starts.</string>
+			<string>Capture the beauty of summer and cultivate your perfect season!</string>
+			<string>UA Outlet: 600+ items, all going fast!</string>
+			<string>A New Look &amp; Even More to Love about GETAWAYS!</string>
+			<string>Our latest in denim technology makes you feel at least one size smaller.</string>
+			<string>Sock Full of Color. A bright and fanciful array of our very best...</string>
+			<string>Yoga at Equinox will transform your body, mind and spirit.</string>
+			<string>Saint Laurent + Closely Held Totes</string>
+			<string>Summer Brights! Free UPS shipping on orders $125+.</string>
+		</array>
+		<key>promoStores</key>
+		<array>
+			<string>Lilly Pulitzer</string>
+			<string>Gap</string>
+			<string>Lacoste</string>
+			<string>Paul Smith</string>
+			<string>Marc Jacobs</string>
+			<string>Nordstrom</string>
+			<string>Allen Edmonds</string>
+			<string>Banana Republic</string>
+			<string>Adidas</string>
+			<string>J. Crew</string>
+			<string>Regal Crown Club</string>
+			<string>Bloomingdales</string>
+			<string>Lowes</string>
+			<string>Express</string>
+			<string>Harney &amp; Sons</string>
+			<string>Cole Haan</string>
+			<string>IKEA</string>
+			<string>UnderArmour</string>
+			<string>Jetblue Airways</string>
+			<string>7 For All Mankind</string>
+			<string>Paul Stuart</string>
+			<string>Equinox</string>
+			<string>Bergdorf Goodman</string>
+			<string>Big Drop NYC</string>
+		</array>
+	</dict>
+</dict>
+</plist>

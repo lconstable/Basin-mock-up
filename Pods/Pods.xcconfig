@@ -1,0 +1,7 @@
+HEADER_SEARCH_PATHS = ${PODS_HEADERS_SEARCH_PATHS}
+PODS_PUBLIC_HEADERS_SEARCH_PATHS = "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/MFSideMenu" "${PODS_ROOT}/Headers/MGBox2" "${PODS_ROOT}/Headers/OHAttributedLabel" "${PODS_ROOT}/Headers/PrettyKit" "${PODS_ROOT}/Headers/SDWebImage"
+ALWAYS_SEARCH_USER_PATHS = YES
+PODS_BUILD_HEADERS_SEARCH_PATHS = "${PODS_ROOT}/BuildHeaders" "${PODS_ROOT}/BuildHeaders/MFSideMenu" "${PODS_ROOT}/BuildHeaders/MGBox2" "${PODS_ROOT}/BuildHeaders/OHAttributedLabel" "${PODS_ROOT}/BuildHeaders/PrettyKit" "${PODS_ROOT}/BuildHeaders/SDWebImage"
+PODS_HEADERS_SEARCH_PATHS = ${PODS_PUBLIC_HEADERS_SEARCH_PATHS}
+PODS_ROOT = ${SRCROOT}/Pods
+OTHER_LDFLAGS = -ObjC -framework CoreGraphics -framework CoreText -framework ImageIO -framework QuartzCore -framework UIKit

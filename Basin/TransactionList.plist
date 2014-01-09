@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>transactions</key>
+	<array>
+		<dict>
+			<key>itemBrands</key>
+			<array>
+				<string>J. Crew</string>
+				<string>J. Crew</string>
+			</array>
+			<key>itemDescriptions</key>
+			<array>
+				<string>Size: L;  Color: Classic Navy 
+A clean-cut standard that goes with just about anything, the polo has been a men&apos;s wardrobe staple for years.</string>
+				<string>Size: 34&quot;;  Color: Dark Wood
+Painstakingly crafted right here in the USA, it&apos;s the piece that pulls together every outfit.</string>
+			</array>
+			<key>itemImages</key>
+			<array>
+				<string>jCrewPolo.png</string>
+				<string>jCrewBelt.png</string>
+			</array>
+			<key>itemNames</key>
+			<array>
+				<string>Vintage Polo Shirt</string>
+				<string>Leather Roller-Buckle Belt</string>
+			</array>
+			<key>itemPrices</key>
+			<array>
+				<string>$29.99</string>
+				<string>$34.50</string>
+			</array>
+			<key>itemReorderURLs</key>
+			<array>
+				<string>http://www.jcrew.com/mens_category/polostees/shortsleevepolos/PRDOVR~93827/93827.jsp</string>
+				<string>http://www.jcrew.com/mens_category/accessories/belts/PRDOVR~30871/30871.jsp</string>
+			</array>
+			<key>itemSimilarItemImages</key>
+			<array>
+				<string>jCrewSleepPants.png</string>
+				<string>jCrewTie.png</string>
+				<string>jCrewLudlowShirt.png</string>
+			</array>
+			<key>itemSimilarItemURLs</key>
+			<array>
+				<string>http://www.jcrew.com/mens_category/underwearsleepwear/loungepants/PRDOVR~31950/31950.jsp</string>
+				<string>http://www.jcrew.com/mens_special_shops/themonogramshop/tiesandpocketsquares/PRDOVR~40861/40861.jsp</string>
+				<string>http://www.jcrew.com/mens_category/shirts/ludlowdressshirts/PRDOVR~22131/22131.jsp</string>
+			</array>
+			<key>itemUserManualURLs</key>
+			<array>
+				<string></string>
+				<string></string>
+			</array>
+			<key>storeName</key>
+			<string>J. Crew</string>
+			<key>purchaseDate</key>
+			<string>8/12/2012</string>
+			<key>storeAddress</key>
+			<string>91 5th Ave, New York, NY 10003</string>
+			<key>storePhoneNumber</key>
+			<string>(212) 255-4848</string>
+			<key>subtotal</key>
+			<string>$64.49</string>
+			<key>tax</key>
+			<string>$5.71</string>
+			<key>total</key>
+			<string>$70.20</string>
+			<key>returnPolicyUrl</key>
+			<string>http://m.jcrew.com/mt/www.jcrew.com/help/returns_exchanges.jsp</string>
+			<key>yelpString</key>
+			<string>yelp:///biz/j-crew-new-york-6</string>
+			<key>creditCard</key>
+			<string>Visa -2584</string>
+			<key>storeNameLogo</key>
+			<string>jcrewLogo.png</string>
+			<key>authorizationNumber</key>
+			<string>904551</string>
+			<key>sequenceNumber</key>
+			<string>4122</string>
+			<key>timeStamp</key>
+			<string>10:05</string>
+			<key>twitterHandle</key>
+			<string>@jcrew</string>
+			<key>isSplit</key>
+			<false/>
+			<key>splitBillTotal</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>itemBrands</key>
+			<array>
+				<string>Apple</string>
+			</array>
+			<key>itemDescriptions</key>
+			<array>
+				<string>Color: Black; 16GB, Wi-Fi
+iPad is a magical window where nothing comes between you and what you love. And it comes in two sizes.</string>
+			</array>
+			<key>itemImages</key>
+			<array>
+				<string>appleiPadWithRetina.png</string>
+			</array>
+			<key>itemNames</key>
+			<array>
+				<string>iPad with Retina Display</string>
+			</array>
+			<key>itemPrices</key>
+			<array>
+				<string>$499.00</string>
+			</array>
+			<key>itemReorderURLs</key>
+			<array>
+				<string>http://store.apple.com/us/buy/home/shop_ipad/family/ipad</string>
+			</array>
+			<key>itemSimilarItemImages</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>itemSimilarItemURLs</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>itemUserManualURLs</key>
+			<array>
+				<string>http://manuals.info.apple.com/en_US/ipad_user_guide.pdf</string>
+			</array>
+			<key>storeName</key>
+			<string>Apple</string>
+			<key>purchaseDate</key>
+			<string>7/27/2012</string>
+			<key>storeAddress</key>
+			<string>401 W 14th St, New York, NY 10014</string>
+			<key>storePhoneNumber</key>
+			<string>(212) 444-3400</string>
+			<key>subtotal</key>
+			<string>$499.00</string>
+			<key>tax</key>
+			<string>$44.16</string>
+			<key>total</key>
+			<string>$543.16</string>
+			<key>returnPolicyUrl</key>
+			<string>http://store.apple.com/us/help/returns_refund#policy</string>
+			<key>yelpString</key>
+			<string>yelp:///biz/apple-store-new-york-3</string>
+			<key>creditCard</key>
+			<string>Amex -28687</string>
+			<key>storeNameLogo</key>
+			<string>appleLogo.png</string>
+			<key>authorizationNumber</key>
+			<string>242178</string>
+			<key>sequenceNumber</key>
+			<string>101</string>
+			<key>timeStamp</key>
+			<string>14:21</string>
+			<key>twitterHandle</key>
+			<string></string>
+			<key>isSplit</key>
+			<false/>
+			<key>splitBillTotal</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>itemBrands</key>
+			<array>
+				<string>uni-ball</string>
+			</array>
+			<key>itemDescriptions</key>
+			<array>
+				<string>Features uni Super Ink™, specially-formulated to become trapped in paper, helping prevent criminal check washing and other document alteration; 12 per pack; non-refillable.</string>
+			</array>
+			<key>itemImages</key>
+			<array>
+				<string>staplesPenSet.png</string>
+			</array>
+			<key>itemNames</key>
+			<array>
+				<string>uni-ball Vision Pens</string>
+			</array>
+			<key>itemPrices</key>
+			<array>
+				<string>$9.99</string>
+			</array>
+			<key>itemReorderURLs</key>
+			<array>
+				<string>http://www.staples.com/uni-ball-Vision-Rollerball-Pens-Micro-Point-Black-Dozen/product_82569#desc_content</string>
+			</array>
+			<key>itemSimilarItemImages</key>
+			<array>
+				<string>staplesYellowPad.png</string>
+				<string>staplesPostIts.png</string>
+				<string>staplesFolders.png</string>
+			</array>
+			<key>itemSimilarItemURLs</key>
+			<array>
+				<string>http://www.staples.com/Staples-8-1-2-inch-x-11-3-4-inch-Canary-Perforated/product_163840?externalize=certona</string>
+				<string>http://www.staples.com/Post-it-3-inch-x-3-inch-Canary-Yellow-Notes/product_130005?externalize=certona</string>
+				<string>http://www.staples.com/Staples-Heavyweight-Manila-File-Folders-Letter-3-Tab-50-Box/product_744100?externalize=certona</string>
+			</array>
+			<key>itemUserManualURLs</key>
+			<array>
+				<string></string>
+			</array>
+			<key>storeName</key>
+			<string>Staples</string>
+			<key>purchaseDate</key>
+			<string>7/9/2012</string>
+			<key>storeAddress</key>
+			<string>5 Union Sq West, New York, NY 10003</string>
+			<key>storePhoneNumber</key>
+			<string>(212) 929-6323</string>
+			<key>subtotal</key>
+			<string>$9.99</string>
+			<key>tax</key>
+			<string>$0.88</string>
+			<key>total</key>
+			<string>$10.87</string>
+			<key>returnPolicyUrl</key>
+			<string>http://m.staples.com/sbd/cre/programs/customerservice/policy_and_legal.html?stop_mobi=yes#return_policy</string>
+			<key>yelpString</key>
+			<string>yelp:///biz/staples-the-office-superstore-new-york-6</string>
+			<key>creditCard</key>
+			<string>Visa -2584</string>
+			<key>storeNameLogo</key>
+			<string>staplesLogo.png</string>
+			<key>authorizationNumber</key>
+			<string>521773</string>
+			<key>sequenceNumber</key>
+			<string>62</string>
+			<key>timeStamp</key>
+			<string>19:55</string>
+			<key>twitterHandle</key>
+			<string>@Staples</string>
+			<key>isSplit</key>
+			<false/>
+			<key>splitBillTotal</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>itemBrands</key>
+			<array>
+				<string>California Pizza Kitchen</string>
+				<string>California Pizza Kitchen</string>
+				<string>California Pizza Kitchen</string>
+				<string>California Pizza Kitchen</string>
+				<string>California Pizza Kitchen</string>
+			</array>
+			<key>itemDescriptions</key>
+			<array>
+				<string>Fresh Shiitake mushrooms, water chestnuts and green onions. Served with our spicy ginger soy sauce. Also available with chicken and/or shrimp.</string>
+				<string>Chinese dumplings topped with sesame seeds and green onions. Served with our soy-ginger chili sauce.</string>
+				<string>Even your friends will love this jerk. Spicy sweet Caribbean sauce, authentic Jamaican spices, Nueske&apos;s applewood smoked bacon, onions and bell peppers.</string>
+				<string>Get instant VIP status with this Club. Nueske&apos;s applewood smoked bacon, chicken and Mozzarella, served with avocado and chilled lettuce tossed in mayonnaise to top it off.</string>
+				<string>Thai peanut sesame sauce, chicken, Mozzarella topped with bean sprouts, green onions, carrots, cilantro and peanuts - a little unexpected? Yes. Yummy? Definitely.</string>
+			</array>
+			<key>itemImages</key>
+			<array>
+				<string>cpkLettuceWraps.png</string>
+				<string>cpkSesameGingerChickenDumplings.png</string>
+				<string>cpkJamaicanJerkPizza.png</string>
+				<string>cpkCaliforniaClubPizza.png</string>
+				<string>cpkThaiChickenPizza.png</string>
+			</array>
+			<key>itemNames</key>
+			<array>
+				<string>Lettuce Wraps</string>
+				<string>Sesame Ginger Chicken Dumplings</string>
+				<string>Jamaican Jerk Chicken Pizza</string>
+				<string>California Club Pizza</string>
+				<string>Thai Chicken Pizza</string>
+			</array>
+			<key>itemPrices</key>
+			<array>
+				<string>$9.50</string>
+				<string>$7.75</string>
+				<string>$13.25</string>
+				<string>$13.25</string>
+				<string>$13.25</string>
+			</array>
+			<key>itemReorderURLs</key>
+			<array>
+				<string>http://www.snapfinger.com/menus/CPK/default.aspx?SiteID=4145</string>
+				<string>http://www.snapfinger.com/menus/CPK/default.aspx?SiteID=4145</string>
+				<string>http://www.snapfinger.com/menus/CPK/default.aspx?SiteID=4145</string>
+				<string>http://www.snapfinger.com/menus/CPK/default.aspx?SiteID=4145</string>
+				<string>http://www.snapfinger.com/menus/CPK/default.aspx?SiteID=4145</string>
+			</array>
+			<key>itemSimilarItemImages</key>
+			<array>
+				<string>cpkJambalaya.png</string>
+				<string>cpkEggRolls.png</string>
+				<string>cpkQuesadilla.png</string>
+			</array>
+			<key>itemSimilarItemURLs</key>
+			<array>
+				<string>http://www.snapfinger.com/menus/CPK/default.aspx?SiteID=4145</string>
+				<string>http://www.snapfinger.com/menus/CPK/default.aspx?SiteID=4145</string>
+				<string>http://www.snapfinger.com/menus/CPK/default.aspx?SiteID=4145</string>
+			</array>
+			<key>itemUserManualURLs</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>storeName</key>
+			<string>California Pizza Kitchen</string>
+			<key>purchaseDate</key>
+			<string>6/19/2012</string>
+			<key>storeAddress</key>
+			<string>440 Park Ave, New York, NY 10016</string>
+			<key>storePhoneNumber</key>
+			<string>(212) 685-6700</string>
+			<key>subtotal</key>
+			<string></string>
+			<key>tax</key>
+			<string></string>
+			<key>total</key>
+			<string>$15.51</string>
+			<key>returnPolicyUrl</key>
+			<string>http://webhost.cpk.com/contactus/contactus.asp</string>
+			<key>yelpString</key>
+			<string>yelp:///biz/california-pizza-kitchen-new-york-2</string>
+			<key>creditCard</key>
+			<string>MC -4181</string>
+			<key>storeNameLogo</key>
+			<string>cpkLogo.png</string>
+			<key>authorizationNumber</key>
+			<string>900203</string>
+			<key>sequenceNumber</key>
+			<string>884</string>
+			<key>timeStamp</key>
+			<string>21:09</string>
+			<key>twitterHandle</key>
+			<string>@calpizzakitchen</string>
+			<key>isSplit</key>
+			<true/>
+			<key>splitBillTotal</key>
+			<string>$62.04</string>
+		</dict>
+		<dict>
+			<key>itemBrands</key>
+			<array>
+				<string>Samsung</string>
+			</array>
+			<key>itemDescriptions</key>
+			<array>
+				<string>Enjoy your favorite movies, video games, TV shows and more with this Samsung LN32D403 LCD HDTV that supports signals up to 720p to ensure crisp, clear images.</string>
+			</array>
+			<key>itemImages</key>
+			<array>
+				<string>bestBuyLCDTV.png</string>
+			</array>
+			<key>itemNames</key>
+			<array>
+				<string>32&quot; LCD TV</string>
+			</array>
+			<key>itemPrices</key>
+			<array>
+				<string>$199.99</string>
+			</array>
+			<key>itemReorderURLs</key>
+			<array>
+				<string>http://www.bestbuy.com/site/Samsung+-+32%22+Class+(32%22+Diag.)+-+LED-LCD+TV+-+HDTV/1305262445.p;jsessionid=2B9B4F482E7BA8F8050A9FEE3DC5CEB5.bbolsp-app01-164?id=mp1305262445&amp;skuId=1305262445&amp;st=samsung%2032%22%20lcd&amp;cp=1&amp;lp=1</string>
+			</array>
+			<key>itemSimilarItemImages</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>itemSimilarItemURLs</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>itemUserManualURLs</key>
+			<array>
+				<string>http://downloadcenter.samsung.com/content/UM/201105/20110523090936183/[UD5003-ZA]BN68-03703A-01ENG_0427.pdf</string>
+			</array>
+			<key>storeName</key>
+			<string>Best Buy</string>
+			<key>purchaseDate</key>
+			<string>6/4/2012</string>
+			<key>storeAddress</key>
+			<string>52 E 14th St, New York, NY 10003</string>
+			<key>storePhoneNumber</key>
+			<string>(212) 466-4789</string>
+			<key>subtotal</key>
+			<string>$199.99</string>
+			<key>tax</key>
+			<string>$17.61</string>
+			<key>total</key>
+			<string>$217.60</string>
+			<key>returnPolicyUrl</key>
+			<string>http://www.bestbuy.com/site/Returns-Refunds/regularCat%3Apcmcat260800050014/pcmcat260800050014.c?id=pcmcat260800050014</string>
+			<key>yelpString</key>
+			<string>yelp:///biz/best-buy-new-york-8</string>
+			<key>creditCard</key>
+			<string>MC -4181</string>
+			<key>storeNameLogo</key>
+			<string>bestbuyLogo.png</string>
+			<key>authorizationNumber</key>
+			<string>154428</string>
+			<key>sequenceNumber</key>
+			<string>8922</string>
+			<key>timeStamp</key>
+			<string>18:33</string>
+			<key>twitterHandle</key>
+			<string>@BestBuy</string>
+			<key>isSplit</key>
+			<false/>
+			<key>splitBillTotal</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>itemBrands</key>
+			<array>
+				<string>Trader Joe&apos;s</string>
+				<string>Trader Joe&apos;s</string>
+				<string>Trader Joe&apos;s</string>
+				<string>Trader Joe&apos;s</string>
+				<string>Trader Joe&apos;s</string>
+				<string>Trader Joe&apos;s</string>
+				<string>Trader Joe&apos;s</string>
+				<string>Trader Joe&apos;s</string>
+				<string>Trader Joe&apos;s</string>
+			</array>
+			<key>itemDescriptions</key>
+			<array>
+				<string>Toasted Whole Grain Oats, Fortified with Six B Vitamins.</string>
+				<string>Organic.</string>
+				<string>Grown naturally with no preservatives.</string>
+				<string>Organic, Free-range.</string>
+				<string>Grown naturally with no preservatives.</string>
+				<string>Organic.</string>
+				<string>Organic, Trimmed and Cleaned.</string>
+				<string>Organic.</string>
+				<string>96% lean ground beef.</string>
+			</array>
+			<key>itemImages</key>
+			<array>
+				<string>traderJoesHoneyNutOs.png</string>
+				<string>traderJoesMilk.png</string>
+				<string>traderJoesBlueberries.png</string>
+				<string>traderJoesRotisserieChicken.png</string>
+				<string>traderJoesBroccoli.png</string>
+				<string>traderJoesOranges.png</string>
+				<string>traderJoesGreenBeans.png</string>
+				<string>traderJoesSpinach.png</string>
+				<string>traderJoesGroundBeef.png</string>
+			</array>
+			<key>itemNames</key>
+			<array>
+				<string>Honey Nut O&apos;s</string>
+				<string>1 Gallon 2% Milk</string>
+				<string>Blueberries</string>
+				<string>Rotisserie Chicken</string>
+				<string>Broccoli</string>
+				<string>Oranges</string>
+				<string>Green Beans</string>
+				<string>Organic Baby Spinach</string>
+				<string>Grass-Fed Angus Beef</string>
+			</array>
+			<key>itemPrices</key>
+			<array>
+				<string>$1.99</string>
+				<string>$3.49</string>
+				<string>$3.99</string>
+				<string>$7.99</string>
+				<string>$3.49</string>
+				<string>$4.99</string>
+				<string>$3.49</string>
+				<string>$2.99</string>
+				<string>$10.49</string>
+			</array>
+			<key>itemReorderURLs</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>itemSimilarItemImages</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>itemSimilarItemURLs</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>itemUserManualURLs</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>storeName</key>
+			<string>Trader Joe&apos;s</string>
+			<key>purchaseDate</key>
+			<string>5/13/2012</string>
+			<key>storeAddress</key>
+			<string>142 E 14th St, New York, NY 10003</string>
+			<key>storePhoneNumber</key>
+			<string>(212) 529 4612</string>
+			<key>subtotal</key>
+			<string>$42.91</string>
+			<key>tax</key>
+			<string>$0.00</string>
+			<key>total</key>
+			<string>$42.91</string>
+			<key>returnPolicyUrl</key>
+			<string>http://www.clubtraderjoes.com/p/trader-joes-faq.html</string>
+			<key>yelpString</key>
+			<string>yelp:///biz/trader-joes-new-york</string>
+			<key>creditCard</key>
+			<string>Visa -2584</string>
+			<key>storeNameLogo</key>
+			<string>traderJoesLogo.png</string>
+			<key>authorizationNumber</key>
+			<string>984236</string>
+			<key>sequenceNumber</key>
+			<string>5263</string>
+			<key>timeStamp</key>
+			<string>15:26</string>
+			<key>isSplit</key>
+			<false/>
+			<key>twitterHandle</key>
+			<string></string>
+			<key>splitBillTotal</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>itemBrands</key>
+			<array>
+				<string>Nike</string>
+			</array>
+			<key>itemDescriptions</key>
+			<array>
+				<string>Size: L;  Color: White/Team Royal
+From the cotton to the construction, this swoosh tee was designed for superior comfort.</string>
+			</array>
+			<key>itemImages</key>
+			<array>
+				<string>jcpNikeTShirt.png</string>
+			</array>
+			<key>itemNames</key>
+			<array>
+				<string>Swoosh Tee</string>
+			</array>
+			<key>itemPrices</key>
+			<array>
+				<string>$5.00</string>
+			</array>
+			<key>itemReorderURLs</key>
+			<array>
+				<string>http://www.jcpenney.com/dotcom//juniors-guys/view-all-guys/brands/nike/nike-just-do-it-swoosh-tee/prod.jump?ppId=pp5001940190&amp;pageSize=96&amp;searchTerm=nike+t+shirt&amp;dimCombo=null&amp;dimComboVal=null&amp;catId=SearchResults</string>
+			</array>
+			<key>itemSimilarItemImages</key>
+			<array>
+				<string>jcpNikeSweatshirt.png</string>
+				<string>jcpAdidasSandals.png</string>
+				<string>jcpCarharttJeans.png</string>
+			</array>
+			<key>itemSimilarItemURLs</key>
+			<array>
+				<string>http://www.jcpenney.com/dotcom/juniors-guys/view-all-guys/brands/nike/nike-satin-block-hoodie/prod.jump?ppId=pp5001840095&amp;catId=cat100290079&amp;deptId=dept20000014&amp;dimCombo=null&amp;dimComboVal=null</string>
+				<string>http://www.jcpenney.com/dotcom/men/adidas-adissage-ultrafoam-mens-slide-sandals/prod.jump?ppId=1a4e32f&amp;catId=cat100300046&amp;deptId=dept20000015&amp;dimCombo=null&amp;dimComboVal=null</string>
+				<string>http://www.jcpenney.com/dotcom/men/carhartt-fleece-lined-workwear-jeans/prod.jump?ppId=1d1cba9&amp;catId=cat100250149&amp;deptId=dept20000015&amp;dimCombo=null&amp;dimComboVal=null</string>
+			</array>
+			<key>itemUserManualURLs</key>
+			<array>
+				<string></string>
+			</array>
+			<key>storeName</key>
+			<string>JCPenney</string>
+			<key>purchaseDate</key>
+			<string>4/17/2012</string>
+			<key>storeAddress</key>
+			<string>100 West 33rd Street, New York, NY 10001</string>
+			<key>storePhoneNumber</key>
+			<string>(212) 295 6120</string>
+			<key>subtotal</key>
+			<string>$5.00</string>
+			<key>tax</key>
+			<string>$0.44</string>
+			<key>total</key>
+			<string>$5.44</string>
+			<key>returnPolicyUrl</key>
+			<string>http://m.jcpenney.com/mobile/jsp/customerservice/serviceContent.jsp?pageId=pg4007200031&amp;lang=en&amp;title=happy%20returns</string>
+			<key>yelpString</key>
+			<string>yelp:///biz/jcpenney-new-york</string>
+			<key>creditCard</key>
+			<string>Visa -2584</string>
+			<key>storeNameLogo</key>
+			<string>jcpenneyLogo.png</string>
+			<key>authorizationNumber</key>
+			<string>239631</string>
+			<key>sequenceNumber</key>
+			<string>7439</string>
+			<key>timeStamp</key>
+			<string>15:26</string>
+			<key>twitterHandle</key>
+			<string>@jcpenney</string>
+			<key>isSplit</key>
+			<false/>
+			<key>splitBillTotal</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>itemBrands</key>
+			<array>
+				<string>Peacefood Cafe</string>
+				<string>Peacefood Cafe</string>
+				<string>Peacefood Cafe</string>
+				<string>Peacefood Cafe</string>
+			</array>
+			<key>itemDescriptions</key>
+			<array>
+				<string>Beans, baby greens &amp; sprouts of the day, avocado, sweet peppers, corn &amp; onions tossed with creamy lime mustard vinaigrette.</string>
+				<string>Mixed sprouts, creamy avocado, cucumber, onions, shredded carrots, and our miso tahini with poppy seeds spread.</string>
+				<string>Banana, mixed berries, orange juice, leaf vegetables, date, spirulina.</string>
+				<string>Coconut, banana, date, cardamom, nut-milk.</string>
+			</array>
+			<key>itemImages</key>
+			<array>
+				<string>noImageIcon.png</string>
+				<string>noImageIcon.png</string>
+				<string>noImageIcon.png</string>
+				<string>noImageIcon.png</string>
+			</array>
+			<key>itemNames</key>
+			<array>
+				<string>Fluffy Quinoa Salad</string>
+				<string>Tahini Sprouts Sandwich</string>
+				<string>Green Power Smoothie</string>
+				<string>Bombay Delight Smoothie</string>
+			</array>
+			<key>itemPrices</key>
+			<array>
+				<string>$9.95</string>
+				<string>$9.75</string>
+				<string>$5.00</string>
+				<string>$5.00</string>
+			</array>
+			<key>itemReorderURLs</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>itemSimilarItemImages</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>itemSimilarItemURLs</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>itemUserManualURLs</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>storeName</key>
+			<string>Peacefood Cafe</string>
+			<key>purchaseDate</key>
+			<string>4/2/2012</string>
+			<key>storeAddress</key>
+			<string>440 Amsterdam Ave, New York, NY 10024</string>
+			<key>storePhoneNumber</key>
+			<string>(212) 362-2266</string>
+			<key>subtotal</key>
+			<string></string>
+			<key>tax</key>
+			<string></string>
+			<key>total</key>
+			<string>$29.70</string>
+			<key>returnPolicyUrl</key>
+			<string>http://www.peacefoodcafe.com/</string>
+			<key>yelpString</key>
+			<string>yelp:///biz/peacefood-cafe-new-york-2</string>
+			<key>creditCard</key>
+			<string>Amex -28687</string>
+			<key>storeNameLogo</key>
+			<string>peacefoodLogo.png</string>
+			<key>authorizationNumber</key>
+			<string>102245</string>
+			<key>sequenceNumber</key>
+			<string>6378</string>
+			<key>timeStamp</key>
+			<string>21:07</string>
+			<key>twitterHandle</key>
+			<string>@peacefoodnyc</string>
+			<key>isSplit</key>
+			<true/>
+			<key>splitBillTotal</key>
+			<string>$31.94</string>
+		</dict>
+		<dict>
+			<key>itemBrands</key>
+			<array>
+				<string>NFL</string>
+			</array>
+			<key>itemDescriptions</key>
+			<array>
+				<string>Size: M;  Color: Red
+Machine wash cold, tumble dry.</string>
+			</array>
+			<key>itemImages</key>
+			<array>
+				<string>walMartNFLJersey.png</string>
+			</array>
+			<key>itemNames</key>
+			<array>
+				<string>Boy&apos;s Tom Brady Jersey</string>
+			</array>
+			<key>itemPrices</key>
+			<array>
+				<string>$25.00</string>
+			</array>
+			<key>itemReorderURLs</key>
+			<array>
+				<string>http://www.walmart.com/ip/NFL-Boys-San-Francisco-49Ers-Frank-Gore-Jersey/20903138</string>
+			</array>
+			<key>itemSimilarItemImages</key>
+			<array>
+				<string>walMartNascarCap.png</string>
+				<string>walMartCalendar.png</string>
+				<string>walMartBedset.png</string>
+			</array>
+			<key>itemSimilarItemURLs</key>
+			<array>
+				<string>http://www.walmart.com/ip/NASCAR-Men-s-Dale-Earnhardt-Sr.-Flex-Fit-Cap-Black/15707935</string>
+				<string>http://www.walmart.com/ip/2013-12-x-12-Team-Wall-Calendar-San-Francisco-49ers/21609135?findingMethod=rr</string>
+				<string>http://www.walmart.com/ip/Northwest-Co.-NFL-San-Francisco-49ers-Bed-in-Bag-Set/17118671?findingMethod=rr</string>
+			</array>
+			<key>itemUserManualURLs</key>
+			<array>
+				<string></string>
+			</array>
+			<key>storeName</key>
+			<string>Wal Mart</string>
+			<key>purchaseDate</key>
+			<string>3/23/2012</string>
+			<key>storeAddress</key>
+			<string>400 Park Plaza Drive, Secaucus, NJ, 07094</string>
+			<key>storePhoneNumber</key>
+			<string>(201) 325-9280</string>
+			<key>subtotal</key>
+			<string>$25.00</string>
+			<key>tax</key>
+			<string>$2.21</string>
+			<key>total</key>
+			<string>$27.21</string>
+			<key>returnPolicyUrl</key>
+			<string>http://www.walmartstores.com/7658.aspx</string>
+			<key>yelpString</key>
+			<string>yelp:///biz/walmart-secaucus</string>
+			<key>creditCard</key>
+			<string>Visa -2584</string>
+			<key>storeNameLogo</key>
+			<string>walmartLogo.png</string>
+			<key>authorizationNumber</key>
+			<string>456239</string>
+			<key>sequenceNumber</key>
+			<string>6437</string>
+			<key>timeStamp</key>
+			<string>15:52</string>
+			<key>twitterHandle</key>
+			<string>@walmart</string>
+			<key>isSplit</key>
+			<false/>
+			<key>splitBillTotal</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>itemBrands</key>
+			<array>
+				<string>Kelty Gunnison</string>
+			</array>
+			<key>itemDescriptions</key>
+			<array>
+				<string>The Gunnison 2.1 tent from Kelty makes easy work of pitching your tent. And let&apos;s face it, after a long day on the trail, nothing beats a quick, no-brainer setup.</string>
+			</array>
+			<key>itemImages</key>
+			<array>
+				<string>reiTent.png</string>
+			</array>
+			<key>itemNames</key>
+			<array>
+				<string>Kelty Gunnison 2.1 Tent</string>
+			</array>
+			<key>itemPrices</key>
+			<array>
+				<string>$99.50</string>
+			</array>
+			<key>itemReorderURLs</key>
+			<array>
+				<string>http://www.rei.com/product/796133/kelty-gunnison-21-tent</string>
+			</array>
+			<key>itemSimilarItemImages</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>itemSimilarItemURLs</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>itemUserManualURLs</key>
+			<array>
+				<string></string>
+			</array>
+			<key>storeName</key>
+			<string>REI</string>
+			<key>purchaseDate</key>
+			<string>2/12/2012</string>
+			<key>storeAddress</key>
+			<string>303 Lafayette Street, New York, NY 10012</string>
+			<key>storePhoneNumber</key>
+			<string>(212) 680-1938</string>
+			<key>subtotal</key>
+			<string>$99.50</string>
+			<key>tax</key>
+			<string>$8.81</string>
+			<key>total</key>
+			<string>$108.31</string>
+			<key>returnPolicyUrl</key>
+			<string>http://m.rei.com/mt/www.rei.com/help/terms-of-use.html?un_jtt_v_section=26</string>
+			<key>yelpString</key>
+			<string>yelp:///biz/rei-manhattan</string>
+			<key>creditCard</key>
+			<string>Amex -28687</string>
+			<key>storeNameLogo</key>
+			<string>reiLogo.png</string>
+			<key>authorizationNumber</key>
+			<string>567092</string>
+			<key>sequenceNumber</key>
+			<string>41</string>
+			<key>timeStamp</key>
+			<string>11:19</string>
+			<key>twitterHandle</key>
+			<string>@REI</string>
+			<key>isSplit</key>
+			<false/>
+			<key>splitBillTotal</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>itemDescriptions</key>
+			<array>
+				<string>With toast or house potatoes.</string>
+			</array>
+			<key>itemBrands</key>
+			<array>
+				<string>L&apos;Express</string>
+			</array>
+			<key>itemImages</key>
+			<array>
+				<string>noImageIcon.png</string>
+			</array>
+			<key>itemNames</key>
+			<array>
+				<string>Two Scrambled Eggs</string>
+			</array>
+			<key>itemPrices</key>
+			<array>
+				<string>$8.75</string>
+			</array>
+			<key>itemReorderURLs</key>
+			<array>
+				<string>http://www.orderingonline.com/lexpressny</string>
+			</array>
+			<key>itemSimilarItemImages</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>itemSimilarItemURLs</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>itemUserManualURLs</key>
+			<array>
+				<string></string>
+			</array>
+			<key>storeName</key>
+			<string>L&apos;Express</string>
+			<key>purchaseDate</key>
+			<string>2/3/2012</string>
+			<key>storeAddress</key>
+			<string>295 Amsterdam Ave, New York, NY 10003</string>
+			<key>storePhoneNumber</key>
+			<string>(212) 254-5858</string>
+			<key>subtotal</key>
+			<string>$8.75</string>
+			<key>tax</key>
+			<string>$0.77</string>
+			<key>total</key>
+			<string>$9.52</string>
+			<key>returnPolicyUrl</key>
+			<string>http://www.lexpressnyc.com/findus.aspx#</string>
+			<key>yelpString</key>
+			<string>yelp:///biz/l-express-new-york-3</string>
+			<key>creditCard</key>
+			<string>Amex -28687</string>
+			<key>storeNameLogo</key>
+			<string>lexpressLogo.png</string>
+			<key>authorizationNumber</key>
+			<string>823942</string>
+			<key>sequenceNumber</key>
+			<string>8704</string>
+			<key>timeStamp</key>
+			<string>6:09</string>
+			<key>twitterHandle</key>
+			<string></string>
+			<key>isSplit</key>
+			<false/>
+			<key>splitBillTotal</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>itemBrands</key>
+			<array>
+				<string>Pure Elements</string>
+			</array>
+			<key>itemDescriptions</key>
+			<array>
+				<string>Size: Standard
+20&quot;x28&quot;, Hypoallergenic, 100% Organic Cotton</string>
+			</array>
+			<key>itemImages</key>
+			<array>
+				<string>targetPillows.png</string>
+			</array>
+			<key>itemNames</key>
+			<array>
+				<string>Pillow Set</string>
+			</array>
+			<key>itemPrices</key>
+			<array>
+				<string>$10.99</string>
+			</array>
+			<key>itemReorderURLs</key>
+			<array>
+				<string>http://www.target.com/p/threshold-pure-elements-pillow-standard/-/A-14199254#prodSlot=large_1_1</string>
+			</array>
+			<key>itemSimilarItemImages</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>itemSimilarItemURLs</key>
+			<array>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>itemUserManualURLs</key>
+			<array>
+				<string></string>
+			</array>
+			<key>storeName</key>
+			<string>Target</string>
+			<key>purchaseDate</key>
+			<string>1/7/2012</string>
+			<key>storeAddress</key>
+			<string>139 Flatbush Ave, Brooklyn, NY 11217</string>
+			<key>storePhoneNumber</key>
+			<string>(718) 290-1109</string>
+			<key>subtotal</key>
+			<string>$10.99</string>
+			<key>tax</key>
+			<string>$0.97</string>
+			<key>total</key>
+			<string>$11.96</string>
+			<key>returnPolicyUrl</key>
+			<string>http://www.target.com/HelpContent?help=/sites/html/TargetOnline/help/returns_and_refunds/targets_return_policy/targets_return_policy.html</string>
+			<key>yelpString</key>
+			<string>yelp:///biz/target-brooklyn</string>
+			<key>creditCard</key>
+			<string>MC -4181</string>
+			<key>storeNameLogo</key>
+			<string>targetLogo.png</string>
+			<key>authorizationNumber</key>
+			<string>308449</string>
+			<key>sequenceNumber</key>
+			<string>4682</string>
+			<key>timeStamp</key>
+			<string>8:02</string>
+			<key>twitterHandle</key>
+			<string>@target</string>
+			<key>isSplit</key>
+			<false/>
+			<key>splitBillTotal</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>

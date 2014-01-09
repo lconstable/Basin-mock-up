@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>transactions</key>
+	<array>
+		<dict>
+			<key>itemNames</key>
+			<array>
+				<string>Polo Shirt</string>
+				<string>Brown Belt</string>
+			</array>
+			<key>itemPrices</key>
+			<array>
+				<string>$29.99</string>
+				<string>$20.72</string>
+			</array>
+			<key>storeName</key>
+			<string>J. Crew</string>
+			<key>purchaseDate</key>
+			<string>7/12/2012</string>
+			<key>storeAddress</key>
+			<string>91 5th Ave, New York, NY 10003</string>
+			<key>storePhoneNumber</key>
+			<string>(212) 255-4848</string>
+			<key>subtotal</key>
+			<string>$50.71</string>
+			<key>tax</key>
+			<string>$4.50</string>
+			<key>total</key>
+			<string>$55.21</string>
+			<key>returnPolicyUrl</key>
+			<string>http://m.jcrew.com/mt/www.jcrew.com/help/returns_exchanges.jsp</string>
+			<key>creditCard</key>
+			<string>Visa Ending 2584</string>
+			<key>storeNameLogo</key>
+			<string>jcrewLogo.png</string>
+			<key>authorizationNumber</key>
+			<string>123456</string>
+			<key>timeStamp</key>
+			<string>10:05</string>
+		</dict>
+		<dict>
+			<key>itemNames</key>
+			<array>
+				<string>iPad 3</string>
+			</array>
+			<key>itemPrices</key>
+			<array>
+				<string>$560.35</string>
+			</array>
+			<key>storeName</key>
+			<string>Apple</string>
+			<key>purchaseDate</key>
+			<string>7/10/2012</string>
+			<key>storeAddress</key>
+			<string>401 W 14th St, New York, NY 10014</string>
+			<key>storePhoneNumber</key>
+			<string>(212) 444-3400</string>
+			<key>subtotal</key>
+			<string>$560.35</string>
+			<key>tax</key>
+			<string>$49.73</string>
+			<key>total</key>
+			<string>$610.08</string>
+			<key>returnPolicyUrl</key>
+			<string>http://store.apple.com/us/help/returns_refund#policy</string>
+			<key>creditCard</key>
+			<string>Amex Ending 28687</string>
+			<key>storeNameLogo</key>
+			<string>appleLogo.png</string>
+			<key>authorizationNumber</key>
+			<string>123457</string>
+			<key>timeStamp</key>
+			<string>14:21</string>
+		</dict>
+		<dict>
+			<key>itemNames</key>
+			<array>
+				<string>LCD Television</string>
+			</array>
+			<key>itemPrices</key>
+			<array>
+				<string>$214.13</string>
+			</array>
+			<key>storeName</key>
+			<string>Best Buy</string>
+			<key>purchaseDate</key>
+			<string>6/29/2012</string>
+			<key>storeAddress</key>
+			<string>52 E 14th St, New York, NY 10003</string>
+			<key>storePhoneNumber</key>
+			<string>(212) 466-4789</string>
+			<key>subtotal</key>
+			<string>$214.13</string>
+			<key>tax</key>
+			<string>$19.00</string>
+			<key>total</key>
+			<string>$233.13</string>
+			<key>returnPolicyUrl</key>
+			<string>http://www.bestbuy.com/site/Returns-Refunds/regularCat%3Apcmcat260800050014/pcmcat260800050014.c?id=pcmcat260800050014</string>
+			<key>creditCard</key>
+			<string>MC Ending 4181</string>
+			<key>storeNameLogo</key>
+			<string>bestbuyLogo.png</string>
+			<key>authorizationNumber</key>
+			<string>123458</string>
+			<key>timeStamp</key>
+			<string>18:33</string>
+		</dict>
+		<dict>
+			<key>itemNames</key>
+			<array>
+				<string>Pillows</string>
+			</array>
+			<key>itemPrices</key>
+			<array>
+				<string>$7.85</string>
+			</array>
+			<key>storeName</key>
+			<string>Target</string>
+			<key>purchaseDate</key>
+			<string>6/27/2012</string>
+			<key>storeAddress</key>
+			<string>139 Flatbush Ave, Brooklyn, NY 11217</string>
+			<key>storePhoneNumber</key>
+			<string>(718) 290-1109</string>
+			<key>subtotal</key>
+			<string>$7.85</string>
+			<key>tax</key>
+			<string>$0.70</string>
+			<key>total</key>
+			<string>$8.55</string>
+			<key>returnPolicyUrl</key>
+			<string>http://www.target.com/HelpContent?help=/sites/html/TargetOnline/help/returns_and_refunds/targets_return_policy/targets_return_policy.html</string>
+			<key>creditCard</key>
+			<string>MC Ending 4181</string>
+			<key>storeNameLogo</key>
+			<string>targetLogo.png</string>
+			<key>authorizationNumber</key>
+			<string>123459</string>
+			<key>timeStamp</key>
+			<string>8:02</string>
+		</dict>
+		<dict>
+			<key>itemNames</key>
+			<array>
+				<string>Pen Set</string>
+			</array>
+			<key>itemPrices</key>
+			<array>
+				<string>$3.57</string>
+			</array>
+			<key>storeName</key>
+			<string>Staples</string>
+			<key>purchaseDate</key>
+			<string>6/26/2012</string>
+			<key>storeAddress</key>
+			<string>5 Union Sq West, New York, NY 10003</string>
+			<key>storePhoneNumber</key>
+			<string>(212) 929-6323</string>
+			<key>subtotal</key>
+			<string>$3.57</string>
+			<key>tax</key>
+			<string>$0.32</string>
+			<key>total</key>
+			<string>$3.89</string>
+			<key>returnPolicyUrl</key>
+			<string>http://m.staples.com/sbd/cre/programs/customerservice/policy_and_legal.html?stop_mobi=yes#return_policy</string>
+			<key>creditCard</key>
+			<string>Visa Ending 2584</string>
+			<key>storeNameLogo</key>
+			<string>staplesLogo.png</string>
+			<key>authorizationNumber</key>
+			<string>965943</string>
+			<key>timeStamp</key>
+			<string>19:55</string>
+		</dict>
+		<dict>
+			<key>itemNames</key>
+			<array>
+				<string>NFL Jersey</string>
+			</array>
+			<key>itemPrices</key>
+			<array>
+				<string>$134.90</string>
+			</array>
+			<key>storeName</key>
+			<string>Wal Mart</string>
+			<key>purchaseDate</key>
+			<string>6/23/2012</string>
+			<key>storeAddress</key>
+			<string>400 Park Plaza Drive, Secaucus, NJ, 07094</string>
+			<key>storePhoneNumber</key>
+			<string>(201) 325-9280</string>
+			<key>subtotal</key>
+			<string>$134.90</string>
+			<key>tax</key>
+			<string>$9.44</string>
+			<key>total</key>
+			<string>$144.34</string>
+			<key>returnPolicyUrl</key>
+			<string>http://www.walmartstores.com/7658.aspx</string>
+			<key>creditCard</key>
+			<string>Visa Ending 2584</string>
+			<key>storeNameLogo</key>
+			<string>walmartLogo.png</string>
+			<key>authorizationNumber</key>
+			<string>456239</string>
+			<key>timeStamp</key>
+			<string>15:52</string>
+		</dict>
+		<dict>
+			<key>itemNames</key>
+			<array>
+				<string>Tent</string>
+			</array>
+			<key>itemPrices</key>
+			<array>
+				<string>$346.27</string>
+			</array>
+			<key>storeName</key>
+			<string>REI</string>
+			<key>purchaseDate</key>
+			<string>6/22/2012</string>
+			<key>storeAddress</key>
+			<string>303 Lafayette Street, New York, NY 10012</string>
+			<key>storePhoneNumber</key>
+			<string>(212) 680-1938</string>
+			<key>subtotal</key>
+			<string>$346.27</string>
+			<key>tax</key>
+			<string>$30.73</string>
+			<key>total</key>
+			<string>$377.00</string>
+			<key>returnPolicyUrl</key>
+			<string>http://m.rei.com/mt/www.rei.com/help/terms-of-use.html?un_jtt_v_section=26</string>
+			<key>creditCard</key>
+			<string>Amex Ending 28687</string>
+			<key>storeNameLogo</key>
+			<string>reiLogo.png</string>
+			<key>authorizationNumber</key>
+			<string>530092</string>
+			<key>timeStamp</key>
+			<string>11:19</string>
+		</dict>
+		<dict>
+			<key>itemNames</key>
+			<array>
+				<string>Nike T-Shirt</string>
+			</array>
+			<key>itemPrices</key>
+			<array>
+				<string>$7.35</string>
+			</array>
+			<key>storeName</key>
+			<string>JCPenney</string>
+			<key>purchaseDate</key>
+			<string>3/4/2012</string>
+			<key>storeAddress</key>
+			<string>100 West 33rd Street, New York, NY 10001</string>
+			<key>storePhoneNumber</key>
+			<string>(212) 295 6120</string>
+			<key>subtotal</key>
+			<string>$7.35</string>
+			<key>tax</key>
+			<string>$0.65</string>
+			<key>total</key>
+			<string>$8.00</string>
+			<key>returnPolicyUrl</key>
+			<string>http://m.jcpenney.com/mobile/jsp/customerservice/serviceContent.jsp?pageId=pg4007200031&amp;lang=en&amp;title=happy%20returns</string>
+			<key>creditCard</key>
+			<string>Visa Ending 2584</string>
+			<key>storeNameLogo</key>
+			<string>jcpenneyLogo.png</string>
+			<key>authorizationNumber</key>
+			<string>259631</string>
+			<key>timeStamp</key>
+			<string>15:26</string>
+		</dict>
+	</array>
+</dict>
+</plist>
